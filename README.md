@@ -1,1 +1,8 @@
-This is my first GitHub Page.
+                                     This is my first GitHub Page.
+  This is my first time doing a GitHub website. It is a little tricky for me but I will start to get used to it.
+
+                                         A little about me.
+  My name is Abdullah Saleh and I am taking this web design class so I can further learn how to code and use many tools and different programs so I can make my own website or create websites for other people. A little background info about me is that I was born in Dhaka, Bangladesh. I came here in America when I was 3 years old. My dad wanted to create a better life for me and my family. We lived in California for most of your life and just last year we moved here in Texas. My favorite subjects in school is science and history. I've always loved to learn new things and those subjecs further made my interests explore more of science and history. For my hobbies I love to play football, basketball, and many other sports. I also like to play videogames. I grew up playing games and I got my first console at the age of 12. I got a Xbox 360 and I played all my friends back then. I still play once in a while because now I got a lot of responsiblity that I have to take. I work at Dunkin Donuts next to my house.
+
+                                             MY GOALS
+  There are many goals in my life that I want to accomplish. For example, one of my goals is get to drive. Another is to lose weight and look and feel good. One of my biggest goal in life is to have childrens. There are goals that are very small and there are goals that are very larger than life but I want to take a risk and reach them.
