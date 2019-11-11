@@ -1,2 +1,1 @@
-Hello World
-My Webpage
+This is my first GitHub Page.
